@@ -1,0 +1,16 @@
+{
+    "streams":{
+        "0": {
+            "uri": "http://185.137.146.14/mjpg/video.mjpg"
+        },
+        "1": {
+            "uri": "http://90.171.76.53/mjpg/video.mjpg"
+        },
+        "2": {
+            "uri": "http://92.110.185.114:8080/mjpg/video.mjpg"
+        },
+        "3": {
+            "uri": "http://79.108.238.98:9000/mjpg/video.mjpg"
+        }
+    }
+}

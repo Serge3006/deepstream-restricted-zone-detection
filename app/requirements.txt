@@ -1,0 +1,4 @@
+loguru
+typer
+click
+opencv-python
