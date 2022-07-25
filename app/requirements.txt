@@ -2,3 +2,4 @@ loguru
 typer
 click
 opencv-python
+shapely
