@@ -4,6 +4,9 @@
 
 1. Make sure you have CUDA, Docker and Docker-NVIDIA Toolkit installed.
 2. Ensure you are using the OpenGL libs of NVIDIA, you can verify this with:
+```
+glxinfo | grep OpenGL
+```
 
 The output should be:
 
